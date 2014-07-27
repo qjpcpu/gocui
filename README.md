@@ -5,11 +5,11 @@ Minimalist Go library aimed at creating Console User Interfaces.
 
 Installation
 ------------
-	go get github.com/jroimartin/gocui
+	go get github.com/qjpcpu/gocui
 
 Documentation
 -------------
-	godoc github.com/jroimartin/gocui
+	godoc github.com/qjpcpu/gocui
 
 Example
 -------
